@@ -194,7 +194,7 @@
   },
   "packageFolders": {
     "C:\\Users\\Verein33\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -206,7 +206,7 @@
       "outputPath": "C:\\Users\\Verein33\\RiderProjects\\Timesheets\\Timesheets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\Verein33\\AppData\\Roaming\\NuGet\\NuGet.Config",
