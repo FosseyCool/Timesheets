@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\Verein33\\RiderProjects\\Timesheets\\Timesheets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Verein33\\AppData\\Roaming\\NuGet\\NuGet.Config",
