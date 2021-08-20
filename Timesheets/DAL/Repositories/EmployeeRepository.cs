@@ -1,24 +1,37 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using Timesheets.Model;
 
 namespace Timesheets.DAL.Repositories
 {
     public class EmployeeRepository: IEmployeeRepository
     {
-        public async Task<IEnumerable<Employee>> GetAll()
+        private readonly ApplicationDbContext _db;
+
+        public EmployeeRepository(ApplicationDbContext db)
         {
-            throw new System.NotImplementedException();
+            _db = db;
         }
 
-        public async Task<Employee> GetById(int id)
+        public async Task<IList<Employee>> GetAll()
         {
-            throw new System.NotImplementedException();
+            return await _db.Employees.ToListAsync();
         }
 
-        public async Task Add(Employee item)
+        public async Task<Employee> GetById(uint id)
         {
-            throw new System.NotImplementedException();
+            return await _db.Employees.FindAsync(id);
+        }
+
+        public async Task<Employee> Add(Employee obj)
+        {
+            if (obj == null) return null;
+            
+            _db.Employees.Add(obj);
+            await _db.SaveChangesAsync();
+            return obj;
+
         }
     }
 }

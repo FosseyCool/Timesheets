@@ -1,4 +1,4 @@
-﻿using Timesheets.DAL.Interfaces;
+﻿using Timesheets.DAL.Repositories.Interfaces;
 using Timesheets.Model;
 
 namespace Timesheets.DAL.Repositories

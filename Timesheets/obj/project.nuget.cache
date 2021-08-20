@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "O/lH4wkgAMI9IwPWwcU1I7M34dWTU0zqIzEy0qQcAB2Tue+GPKvKSlhOuC9ETOD+3aWFSchGUtLj4QVt+ond+Q==",
+  "dgSpecHash": "2oTWB6tKmLw7y2CUGuSxSzMYAHstp7dKqzGKNKNXxE+z7djdrBZGFfZXKqAxUFFj8fJRQaUA2KNyKf3e++xcaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Verein33\\RiderProjects\\Timesheets\\Timesheets\\Timesheets.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.9\\microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.6.0.0-preview.5.21301.9.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.abstractions.6.0.0-preview.5.21301.9.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.analyzers.6.0.0-preview.5.21301.9.nupkg.sha512",
@@ -18,6 +20,11 @@
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.logging.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.5.21301.5\\microsoft.extensions.options.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.5.21301.5\\microsoft.extensions.primitives.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.1\\microsoft.identitymodel.jsonwebtokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.1\\microsoft.identitymodel.logging.6.12.1.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.1\\microsoft.identitymodel.tokens.6.12.1.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\npgsql\\6.0.0-preview6\\npgsql.6.0.0-preview6.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.0-preview5\\npgsql.entityframeworkcore.postgresql.6.0.0-preview5.nupkg.sha512",
@@ -29,8 +36,10 @@
     "C:\\Users\\Verein33\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.5.21301.5\\system.collections.immutable.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.4.21253.7\\system.componentmodel.annotations.6.0.0-preview.4.21253.7.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.5.21301.5\\system.diagnostics.diagnosticsource.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.1\\system.identitymodel.tokens.jwt.6.12.1.nupkg.sha512",
     "C:\\Users\\Verein33\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Verein33\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.5.21301.5\\system.runtime.compilerservices.unsafe.6.0.0-preview.5.21301.5.nupkg.sha512"
+    "C:\\Users\\Verein33\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.5.21301.5\\system.runtime.compilerservices.unsafe.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\Verein33\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
